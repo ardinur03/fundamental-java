@@ -24,3 +24,19 @@ public class MyHero {
 	}
 
 }
+
+
+
+
+
+
+
+
+
+
+// class Inventori
+
+
+
+
+
