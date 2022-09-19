@@ -5,7 +5,7 @@
  * Filename ; HeroMobileLegend.java
  */
 
-package Tugas_PBO_Teori;
+package Tugas_PBO_Teori_1;
 
 import java.util.Random;
 

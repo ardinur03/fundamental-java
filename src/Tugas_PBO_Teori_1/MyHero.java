@@ -5,7 +5,7 @@
  * Filename ; MyHero.java
  */
 
-package Tugas_PBO_Teori;
+package Tugas_PBO_Teori_1;
 
 public class MyHero {
 	public static void main(String[] args) {
