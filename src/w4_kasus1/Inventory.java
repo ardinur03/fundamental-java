@@ -15,8 +15,15 @@ public class Inventory {
 	}
 	
 	void showBarang() {
-		System.out.println(barangs[0].nama_barang + "(" + barangs[0].getStok() + ")");
-		System.out.println(barangs[1].nama_barang + "(" + barangs[1].getStok() + ")");
+//		System.out.println(barangs[0].nama_barang + "(" + barangs[0].getStok() + ")");
+//		System.out.println(barangs[1].nama_barang + "(" + barangs[1].getStok() + ")");
+		
+		for (Barang barang : barangs) {
+			System.out.print(barang.nama_barang);
+			System.out.print(barang.kode_barang);
+			System.out.println(barang.getStok());
+			
+		}
 	}
 	
 	void pengadaan() {

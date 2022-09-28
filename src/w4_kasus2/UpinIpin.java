@@ -5,7 +5,7 @@
 
 package w4_kasus2;
 
-public class UpinInpin {
+public class UpinIpin {
 	public static void main(String[] args) {
 		Item name = new Item("upin");
 	}
